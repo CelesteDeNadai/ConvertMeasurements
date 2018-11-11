@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ConvertMeasurements</string>
+    <string name="measure">0</string>
+    <string name="message_heading">Enter here the distance in meters to convert to feet:</string>
+    <string name="message_heading2"> %.2f meters equals to:</string>
+    <string name="formatFeet">%.2f</string>
+    <string name="toFeet">Convert</string>
+    <string name="button1">Button</string>
+    <string name="textView">0</string>
+
+</resources>
