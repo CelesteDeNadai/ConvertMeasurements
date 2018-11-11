@@ -12,6 +12,12 @@ The app consist in a first activity where the user enter a value and click in a 
 * Download [Java JRE](https://www.java.com/en/download/)
 * Download [Android Studio](https://developer.android.com/studio/)
 
+## Screenshots
+
+Main activity | Second activity
+------------ | -------------
+![Main activity](/images/MainActivity.png) | ![Second activity](/images/SecondActivity.png)
+
 ## Credits
 
 Made with ❤ by Gloria Morales
