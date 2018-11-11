@@ -1,14 +1,14 @@
 # ConvertMeasurements
 
-This is a program that converts a distance in meters to a distances in feets.
+This is a program that converts a distance in meters to a distance in feet.
 
 ## The goal
 
-The app consist in a first activity where the user enter a value and click in a button to convert it to feet. In a second activity is showed a message saing what is the value in meters to convert and what is the result in feets.
+The app consists of a first activity where the user enters a value and click in a button to convert it to feet. In a second activity is showed a message saying what is the value in meters to convert and what is the result in feet.
 
 ## Prerequisites
 
-* Knowlege about Java programming lenguaje.
+* Knowledge about Java programming language.
 * Download [Java JRE](https://www.java.com/en/download/)
 * Download [Android Studio](https://developer.android.com/studio/)
 
